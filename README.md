@@ -4,11 +4,7 @@
 - Correo: emilianotorr345@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-
-# Actividad 2
-- Programa 3
-- Programa 4
-- Programa 5
-- Programa 6
+- p01HolaMundo.java
+- p02_AreaCirculo.java
+- p03_AreaTriangulo
+- p04_PagaTrabajador
