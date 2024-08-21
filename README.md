@@ -23,3 +23,9 @@
 - p13_VolumenCilindro
 - p14_CalculoTiempo
 - p15_ConvertirADolares
+
+## Actividad 4
+- p21_VerificaNumero
+- p22_VerificaSuma
+- p23_ConvertirTemperaturas
+- p24_PagaTrabajadorv2
