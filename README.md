@@ -24,17 +24,15 @@
 - p14_CalculoTiempo
 - p15_ConvertirADolares
 
-<<<<<<< HEAD
-## Actividad 4
-- p21_VerificaNumero
-- p22_VerificaSuma
-- p23_ConvertirTemperaturas
-- p24_PagaTrabajadorv2
-=======
 ## Actividad 3
 - p16_TrabajandoEnteros
 - p17_TrabajandoFlotantes
 - p18_TrabajandoConstantes
 - p19_TrabajandoCaracteres
 - p20_ConversionTipos
->>>>>>> 983749dbdc8cb6d6f642e09c1e0104bd2e754d2e
+
+- ## Actividad 4
+- p21_VerificaNumero
+- p22_VerificaSuma
+- p23_ConvertirTemperaturas
+- p24_PagaTrabajadorv2
