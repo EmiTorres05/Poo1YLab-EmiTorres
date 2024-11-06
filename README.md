@@ -209,12 +209,17 @@
 - p130_ExcepcionEdades
 - p131_ExcepcionTemperatura
 
+<<<<<<< HEAD
 ## Actividad 23
+=======
+- ## Actividad 23
+>>>>>>> d2aaf9badb11b09300620b7e3e60496ba6905e29
 - p132_Archivos1
 - p133_Archivos2
 - p134_Archivos3
 - p135_Archivos4
 - p136_Archivos5
+<<<<<<< HEAD
 
 ## Practica 14
 - p137_ArchivoMunicipios
@@ -225,3 +230,5 @@
 - p140_HolaMundoGUI
 - p141_AreaTrianguloGUI
 - p142_LeyDeNewtonGUI
+=======
+>>>>>>> d2aaf9badb11b09300620b7e3e60496ba6905e29
