@@ -6,7 +6,7 @@ import java.awt.event.*;
 public class p142_LeyDeNewtonGUI extends JFrame implements ActionListener, ChangeListener{
     JPanel p1;
     JLabel lblFuerza, lblMasa, lblAceleracion;
-    JTextField txtFuerza,txtMasa, txtAceleracion;
+    JTextField txtFuerza, txtMasa, txtAceleracion;
     ButtonGroup grpOpciones;
     JRadioButton rbtFureza, rbtMasa,rbtAceleracion;
     JButton btnCalcular, btnSalir;
@@ -20,8 +20,10 @@ public class p142_LeyDeNewtonGUI extends JFrame implements ActionListener, Chang
 
         lblFuerza = new JLabel("Fuerza: ", JLabel.RIGHT); p1.add(lblFuerza);
         txtFuerza = new JTextField(); p1.add(txtFuerza);
+
         lblMasa = new JLabel("Masa: ", JLabel.RIGHT); p1.add(lblMasa);
         txtMasa = new JTextField(); p1.add(txtMasa);
+
         lblAceleracion = new JLabel("Aceleracion: ", JLabel.RIGHT); p1.add(lblAceleracion);
         txtAceleracion = new JTextField(); p1.add(txtAceleracion);
 

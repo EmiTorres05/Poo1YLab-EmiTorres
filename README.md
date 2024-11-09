@@ -232,3 +232,7 @@
 - p142_LeyDeNewtonGUI
 =======
 >>>>>>> d2aaf9badb11b09300620b7e3e60496ba6905e29
+
+## Practica 15
+- p143_PagaTrabajador
+- p144_Temperaturas
